@@ -1,4 +1,4 @@
-Userr
+User
 -id
 -nama
 -email
